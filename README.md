@@ -28,4 +28,21 @@ GALAZON is a dynamic, Amazon-inspired e-commerce web application built to demons
 
 ## 📂 Project Structure
 
+GALAZON/
+│
+├── index.html
+├── products.html
+├── cart.html
+│
+├── css/
+│ └── style.css
+│
+├── js/
+│ ├── products.js
+│ ├── cart.js
+│ └── search.js
+│
+└── assets/
+└── images/
+
 
