@@ -45,4 +45,12 @@ GALAZON/
 └── assets/
 └── images/
 
+---
 
+## ⚙️ How It Works
+
+1. Products are dynamically rendered using JavaScript.
+2. Users can search products in real-time.
+3. Selected products are stored in `localStorage`.
+4. Cart data persists even after page refresh.
+5. Total price updates automatically based on cart changes.
