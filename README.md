@@ -4,7 +4,7 @@ GALAZON is a dynamic, Amazon-inspired e-commerce web application built to demons
 
 ---
 
-## 🚀 Features
+
 
 - 🏠 Responsive home page with product listings  
 - 🔍 Dynamic product search functionality  
