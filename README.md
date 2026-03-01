@@ -17,7 +17,7 @@ GALAZON is a dynamic, Amazon-inspired e-commerce web application built to demons
 
 ---
 
-
+## 🛠 Tech Stack
 
 - **Frontend:** HTML5, CSS3, JavaScript (ES6)
 - **Storage:** Browser LocalStorage
